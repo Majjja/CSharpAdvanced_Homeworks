@@ -1,0 +1,13 @@
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Excercises_class_01\Excercise1_WeekDays\bin\Debug\netcoreapp3.1\Excercise1_WeekDays.exe
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Excercises_class_01\Excercise1_WeekDays\bin\Debug\netcoreapp3.1\Excercise1_WeekDays.deps.json
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Excercises_class_01\Excercise1_WeekDays\bin\Debug\netcoreapp3.1\Excercise1_WeekDays.runtimeconfig.json
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Excercises_class_01\Excercise1_WeekDays\bin\Debug\netcoreapp3.1\Excercise1_WeekDays.runtimeconfig.dev.json
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Excercises_class_01\Excercise1_WeekDays\bin\Debug\netcoreapp3.1\Excercise1_WeekDays.dll
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Excercises_class_01\Excercise1_WeekDays\bin\Debug\netcoreapp3.1\Excercise1_WeekDays.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Excercises_class_01\Excercise1_WeekDays\obj\Debug\netcoreapp3.1\Excercise1_WeekDays.csprojAssemblyReference.cache
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Excercises_class_01\Excercise1_WeekDays\obj\Debug\netcoreapp3.1\Excercise1_WeekDays.csproj.CoreCompileInputs.cache
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Excercises_class_01\Excercise1_WeekDays\obj\Debug\netcoreapp3.1\Excercise1_WeekDays.AssemblyInfoInputs.cache
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Excercises_class_01\Excercise1_WeekDays\obj\Debug\netcoreapp3.1\Excercise1_WeekDays.AssemblyInfo.cs
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Excercises_class_01\Excercise1_WeekDays\obj\Debug\netcoreapp3.1\Excercise1_WeekDays.dll
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Excercises_class_01\Excercise1_WeekDays\obj\Debug\netcoreapp3.1\Excercise1_WeekDays.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Excercises_class_01\Excercise1_WeekDays\obj\Debug\netcoreapp3.1\Excercise1_WeekDays.genruntimeconfig.cache

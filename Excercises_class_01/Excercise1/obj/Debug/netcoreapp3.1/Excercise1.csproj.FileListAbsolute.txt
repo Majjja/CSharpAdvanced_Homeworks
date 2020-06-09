@@ -1,0 +1,12 @@
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Excercises_class_01\Excercise1\bin\Debug\netcoreapp3.1\Excercise1.exe
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Excercises_class_01\Excercise1\bin\Debug\netcoreapp3.1\Excercise1.deps.json
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Excercises_class_01\Excercise1\bin\Debug\netcoreapp3.1\Excercise1.runtimeconfig.json
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Excercises_class_01\Excercise1\bin\Debug\netcoreapp3.1\Excercise1.runtimeconfig.dev.json
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Excercises_class_01\Excercise1\bin\Debug\netcoreapp3.1\Excercise1.dll
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Excercises_class_01\Excercise1\bin\Debug\netcoreapp3.1\Excercise1.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Excercises_class_01\Excercise1\obj\Debug\netcoreapp3.1\Excercise1.csproj.CoreCompileInputs.cache
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Excercises_class_01\Excercise1\obj\Debug\netcoreapp3.1\Excercise1.AssemblyInfoInputs.cache
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Excercises_class_01\Excercise1\obj\Debug\netcoreapp3.1\Excercise1.AssemblyInfo.cs
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Excercises_class_01\Excercise1\obj\Debug\netcoreapp3.1\Excercise1.dll
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Excercises_class_01\Excercise1\obj\Debug\netcoreapp3.1\Excercise1.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Excercises_class_01\Excercise1\obj\Debug\netcoreapp3.1\Excercise1.genruntimeconfig.cache
