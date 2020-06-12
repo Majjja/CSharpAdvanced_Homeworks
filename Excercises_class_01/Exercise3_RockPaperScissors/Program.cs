@@ -36,24 +36,25 @@ namespace Exercise3_RockPaperScissors
                 Console.WriteLine(@"Pick: ""Rock"", ""Paper"", ""Scissors""");
                 string userInput;
 
-                try
-                {
-                    userInput = Console.ReadLine().ToLower();
-                    if (userInput == "exit")
-                    {
-                        break;
-                    }
-                    var contains = options.First(input => input.Equals(userInput));
-                    Console.ForegroundColor = ConsoleColor.Yellow;
-                    Console.WriteLine($"Your pick: ***{contains}***");
-                    Console.ResetColor();
 
+                userInput = Console.ReadLine().ToLower();
+                if (userInput == "exit")
+                {
+                    break;
                 }
-                catch (Exception)
+                var contains = options.FirstOrDefault(input => input.Equals(userInput));
+                if (contains == null)
                 {
                     Console.WriteLine("You entered an invalid input try again");
                     continue;
                 }
+
+                Console.ForegroundColor = ConsoleColor.Yellow;
+                Console.WriteLine($"Your pick: ***{contains}***");
+                Console.ResetColor();
+
+
+
                 var random = new Random().Next(options.Count);
                 Console.ForegroundColor = ConsoleColor.Yellow;
                 Console.WriteLine($"Computer pick: ***{options[random]}***");
@@ -66,7 +67,7 @@ namespace Exercise3_RockPaperScissors
                     Console.ResetColor();
                     continue;
                 }
-                if (userInput.Equals("rock") && options[random].Equals("scissors") 
+                if (userInput.Equals("rock") && options[random].Equals("scissors")
                     || userInput.Equals("scissors") && options[random].Equals("paper")
                     || userInput.Equals("paper") && options[random].Equals("rock"))
                 {
@@ -75,7 +76,7 @@ namespace Exercise3_RockPaperScissors
                     Console.WriteLine("You win :)))");
                     Console.ResetColor();
                 }
-                if (userInput.Equals("scissors") && options[random].Equals("rock") 
+                if (userInput.Equals("scissors") && options[random].Equals("rock")
                     || userInput.Equals("paper") && options[random].Equals("scissors")
                     || userInput.Equals("rock") && options[random].Equals("paper"))
                 {
