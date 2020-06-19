@@ -76,9 +76,7 @@ namespace Exercise3_RockPaperScissors
                     Console.WriteLine("You win :)))");
                     Console.ResetColor();
                 }
-                if (userInput.Equals("scissors") && options[random].Equals("rock")
-                    || userInput.Equals("paper") && options[random].Equals("scissors")
-                    || userInput.Equals("rock") && options[random].Equals("paper"))
+                else
                 {
                     computerScore++;
                     Console.ForegroundColor = ConsoleColor.Red;

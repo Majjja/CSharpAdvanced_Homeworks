@@ -1,0 +1,13 @@
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Exercise_class_02\Exercise_class_02\bin\Debug\netcoreapp3.1\Exercise_class_02.exe
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Exercise_class_02\Exercise_class_02\bin\Debug\netcoreapp3.1\Exercise_class_02.deps.json
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Exercise_class_02\Exercise_class_02\bin\Debug\netcoreapp3.1\Exercise_class_02.runtimeconfig.json
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Exercise_class_02\Exercise_class_02\bin\Debug\netcoreapp3.1\Exercise_class_02.runtimeconfig.dev.json
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Exercise_class_02\Exercise_class_02\bin\Debug\netcoreapp3.1\Exercise_class_02.dll
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Exercise_class_02\Exercise_class_02\bin\Debug\netcoreapp3.1\Exercise_class_02.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Exercise_class_02\Exercise_class_02\obj\Debug\netcoreapp3.1\Exercise_class_02.csprojAssemblyReference.cache
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Exercise_class_02\Exercise_class_02\obj\Debug\netcoreapp3.1\Exercise_class_02.AssemblyInfoInputs.cache
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Exercise_class_02\Exercise_class_02\obj\Debug\netcoreapp3.1\Exercise_class_02.AssemblyInfo.cs
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Exercise_class_02\Exercise_class_02\obj\Debug\netcoreapp3.1\Exercise_class_02.csproj.CoreCompileInputs.cache
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Exercise_class_02\Exercise_class_02\obj\Debug\netcoreapp3.1\Exercise_class_02.dll
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Exercise_class_02\Exercise_class_02\obj\Debug\netcoreapp3.1\Exercise_class_02.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Exercise_class_02\Exercise_class_02\obj\Debug\netcoreapp3.1\Exercise_class_02.genruntimeconfig.cache
