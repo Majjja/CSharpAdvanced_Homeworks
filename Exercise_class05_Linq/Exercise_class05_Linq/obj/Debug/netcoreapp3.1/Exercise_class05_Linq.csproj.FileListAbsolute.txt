@@ -1,0 +1,13 @@
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Exercise_class05_Linq\Exercise_class05_Linq\bin\Debug\netcoreapp3.1\Exercise_class05_Linq.exe
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Exercise_class05_Linq\Exercise_class05_Linq\bin\Debug\netcoreapp3.1\Exercise_class05_Linq.deps.json
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Exercise_class05_Linq\Exercise_class05_Linq\bin\Debug\netcoreapp3.1\Exercise_class05_Linq.runtimeconfig.json
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Exercise_class05_Linq\Exercise_class05_Linq\bin\Debug\netcoreapp3.1\Exercise_class05_Linq.runtimeconfig.dev.json
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Exercise_class05_Linq\Exercise_class05_Linq\bin\Debug\netcoreapp3.1\Exercise_class05_Linq.dll
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Exercise_class05_Linq\Exercise_class05_Linq\bin\Debug\netcoreapp3.1\Exercise_class05_Linq.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Exercise_class05_Linq\Exercise_class05_Linq\obj\Debug\netcoreapp3.1\Exercise_class05_Linq.AssemblyInfoInputs.cache
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Exercise_class05_Linq\Exercise_class05_Linq\obj\Debug\netcoreapp3.1\Exercise_class05_Linq.AssemblyInfo.cs
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Exercise_class05_Linq\Exercise_class05_Linq\obj\Debug\netcoreapp3.1\Exercise_class05_Linq.csproj.CoreCompileInputs.cache
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Exercise_class05_Linq\Exercise_class05_Linq\obj\Debug\netcoreapp3.1\Exercise_class05_Linq.dll
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Exercise_class05_Linq\Exercise_class05_Linq\obj\Debug\netcoreapp3.1\Exercise_class05_Linq.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Exercise_class05_Linq\Exercise_class05_Linq\obj\Debug\netcoreapp3.1\Exercise_class05_Linq.genruntimeconfig.cache
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\Exercise_class05_Linq\Exercise_class05_Linq\obj\Debug\netcoreapp3.1\Exercise_class05_Linq.csprojAssemblyReference.cache
