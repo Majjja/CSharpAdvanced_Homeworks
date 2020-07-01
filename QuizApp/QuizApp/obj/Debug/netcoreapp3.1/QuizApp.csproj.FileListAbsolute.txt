@@ -1,0 +1,12 @@
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\QuizApp\QuizApp\bin\Debug\netcoreapp3.1\QuizApp.exe
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\QuizApp\QuizApp\bin\Debug\netcoreapp3.1\QuizApp.deps.json
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\QuizApp\QuizApp\bin\Debug\netcoreapp3.1\QuizApp.runtimeconfig.json
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\QuizApp\QuizApp\bin\Debug\netcoreapp3.1\QuizApp.runtimeconfig.dev.json
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\QuizApp\QuizApp\bin\Debug\netcoreapp3.1\QuizApp.dll
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\QuizApp\QuizApp\bin\Debug\netcoreapp3.1\QuizApp.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\QuizApp\QuizApp\obj\Debug\netcoreapp3.1\QuizApp.AssemblyInfoInputs.cache
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\QuizApp\QuizApp\obj\Debug\netcoreapp3.1\QuizApp.AssemblyInfo.cs
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\QuizApp\QuizApp\obj\Debug\netcoreapp3.1\QuizApp.csproj.CoreCompileInputs.cache
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\QuizApp\QuizApp\obj\Debug\netcoreapp3.1\QuizApp.dll
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\QuizApp\QuizApp\obj\Debug\netcoreapp3.1\QuizApp.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\QuizApp\QuizApp\obj\Debug\netcoreapp3.1\QuizApp.genruntimeconfig.cache
