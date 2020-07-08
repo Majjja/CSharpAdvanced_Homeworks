@@ -1,0 +1,12 @@
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\class_07_CustomReaderWriter\CustomReaderWriter\obj\Debug\netcoreapp3.1\CustomReaderWriter.AssemblyInfoInputs.cache
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\class_07_CustomReaderWriter\CustomReaderWriter\obj\Debug\netcoreapp3.1\CustomReaderWriter.AssemblyInfo.cs
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\class_07_CustomReaderWriter\CustomReaderWriter\obj\Debug\netcoreapp3.1\CustomReaderWriter.csproj.CoreCompileInputs.cache
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\class_07_CustomReaderWriter\CustomReaderWriter\bin\Debug\netcoreapp3.1\CustomReaderWriter.exe
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\class_07_CustomReaderWriter\CustomReaderWriter\bin\Debug\netcoreapp3.1\CustomReaderWriter.deps.json
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\class_07_CustomReaderWriter\CustomReaderWriter\bin\Debug\netcoreapp3.1\CustomReaderWriter.runtimeconfig.json
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\class_07_CustomReaderWriter\CustomReaderWriter\bin\Debug\netcoreapp3.1\CustomReaderWriter.runtimeconfig.dev.json
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\class_07_CustomReaderWriter\CustomReaderWriter\bin\Debug\netcoreapp3.1\CustomReaderWriter.dll
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\class_07_CustomReaderWriter\CustomReaderWriter\bin\Debug\netcoreapp3.1\CustomReaderWriter.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\class_07_CustomReaderWriter\CustomReaderWriter\obj\Debug\netcoreapp3.1\CustomReaderWriter.dll
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\class_07_CustomReaderWriter\CustomReaderWriter\obj\Debug\netcoreapp3.1\CustomReaderWriter.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\6. C#_Advanced\HOMEWORKS_C#Advanced\CSharpAdvanced_Homeworks\class_07_CustomReaderWriter\CustomReaderWriter\obj\Debug\netcoreapp3.1\CustomReaderWriter.genruntimeconfig.cache
