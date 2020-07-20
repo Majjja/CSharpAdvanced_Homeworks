@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l08qNXox+j/dQM8pPKkOQkqvyisp7IPthF0iWx3AEPhGPS4XXFj6MQzqOyxjOaHGs0vV9BqidZt2HK+sl3UPzw==",
+  "success": true,
+  "projectFilePath": "D:\\WEB DEVELOPER\\SEDC Code Academy\\6. C#_Advanced\\HOMEWORKS_C#Advanced\\CSharpAdvanced_Homeworks\\class_08_Serialization_Deserialization\\Serialization_Deserialization\\Serialization_Deserialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maja\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
